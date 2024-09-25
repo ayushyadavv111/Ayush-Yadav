@@ -1,7 +1,7 @@
 # Ayush-Yadav
 
 
-#include<stdio.h>
+ hastag include<stdio.h>
 int main(){
 	int n,choice;
 	
